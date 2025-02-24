@@ -1,0 +1,9 @@
+.ex-1{
+    display: flex;
+}
+.left-box{
+    width: 50%;
+}
+.right-box{
+    width: 50%;
+}
